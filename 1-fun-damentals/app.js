@@ -32,8 +32,9 @@
 // console.log(typeof null) // BUG 
 
 // let, const and var
-let age = 26;
-age = 27;
+// let age = 26;
+// age = 27;
 
-const birthYear = 1996;
+// const birthYear = 1996;
+// operators
 
