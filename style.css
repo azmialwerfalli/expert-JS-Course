@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #carousel {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+  .slide {
+    background-color: #fff;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slide h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .slide p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  #controls {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #controls a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ccc;
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #controls a:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
