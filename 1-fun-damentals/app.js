@@ -38,3 +38,10 @@
 // const birthYear = 1996;
 // operators
 
+
+//ep 28
+// the conditional Ternary Operator
+const age = 27;
+// age >= 18 ? console.log('I can drive A Car !') : console.log('I Can Drive A Bycicle ');
+const drive = age >= 18 ? 'A Car !' : 'A Bycicle !';
+console.log('I can drive '  + drive);
