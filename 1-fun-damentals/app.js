@@ -1,10 +1,12 @@
 // values and Variables
 // let firstName = 'Azmi';
 // console.log(firstName);
-// console.log(firstName);
-// console.log(firstName);
+
 // let PI = 3.1415; 
+
+
 // DataTypes
+
 // const isTrue: boolean = true; // Boolean (true/false)
 // const age : number=20;// Number
 // const name : string='Azmi' ;   /// String
@@ -14,12 +16,14 @@
 
 // vlaue
 // OBJECTS
+
 // let me = {
 //     name: 'Azmi',
 //     age: 27,
 // }
 // or
 // PRIMITIVE
+
 // let firstName = 'Azmi';
 // let age = 27;
 // console.log('Name:',me?.name,'Age:',age );
@@ -36,8 +40,8 @@
 // age = 27;
 
 // const birthYear = 1996;
-// operators
 
+// operators
 
 //ep 28
 // the conditional Ternary Operator
